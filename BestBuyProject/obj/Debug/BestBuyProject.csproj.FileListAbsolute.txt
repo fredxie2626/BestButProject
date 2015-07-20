@@ -1,0 +1,6 @@
+C:\Users\fred xie\Desktop\BestBuyProject\BestBuyProject\bin\Debug\BestBuyProject.exe.config
+C:\Users\fred xie\Desktop\BestBuyProject\BestBuyProject\obj\Debug\BestBuyProject.csprojResolveAssemblyReference.cache
+C:\Users\fred xie\Desktop\BestBuyProject\BestBuyProject\bin\Debug\BestBuyProject.exe
+C:\Users\fred xie\Desktop\BestBuyProject\BestBuyProject\bin\Debug\BestBuyProject.pdb
+C:\Users\fred xie\Desktop\BestBuyProject\BestBuyProject\obj\Debug\BestBuyProject.exe
+C:\Users\fred xie\Desktop\BestBuyProject\BestBuyProject\obj\Debug\BestBuyProject.pdb
